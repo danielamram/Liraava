@@ -261,7 +261,7 @@
 
 	#bg {
 		background-size: cover;
-		width: 6750px;
+		width: 3000px;
 	}
 
 /* Overlay */
@@ -767,7 +767,7 @@
 
 		#bg {
 			background-size: cover;
-			width: 4500px;
+			width: 2700px;
 		} }
 
 /* Normal */
@@ -849,7 +849,7 @@
 
 		#bg {
 			background-size: cover;
-			width: 2250px;
+			width: 1800px;
 		} }
 
 /* Mobile */
@@ -935,7 +935,7 @@
 
 		#bg {
 			background-size: cover;
-			width: 900px;
+			width: 600px;
 		}
 
 	/* Header */
@@ -1033,7 +1033,7 @@
 
 		#bg {
 			background-size: cover;
-			width: 1237.5px;
+			width: 900px;
 		}
 
 	/* Header */
